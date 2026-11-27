@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palet Hijau Toska ke Hitaman (Dark Teal to Obsidian) -->
+    <color name="bg_obsidian">#060C0C</color>
+    <color name="bg_surface">#0C1919</color>
+    <color name="bg_surface_elevated">#112424</color>
+    <color name="bg_panel">#E60A1616</color>
+    <color name="border_teal_subtle">#1C4444</color>
+
+    <color name="teal_primary">#14B8A6</color>
+    <color name="teal_bright">#2DD4BF</color>
+    <color name="teal_deep">#0D9488</color>
+    <color name="teal_dark_glow">#0A3A38</color>
+
+    <color name="text_primary">#ECFDF5</color>
+    <color name="text_secondary">#8FB5B0</color>
+    <color name="text_muted">#5A7D79</color>
+
+    <color name="status_ok">#2DD4BF</color>
+    <color name="status_warn">#F59E0B</color>
+    <color name="status_off">#64748B</color>
+</resources>
